@@ -35,4 +35,7 @@ return [
         ],
     ],
 
+    'app' => [
+        'admin_password' => env('APP_ADMIN_PASSWORD'),
+    ],
 ];
